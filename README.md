@@ -1,2 +1,6 @@
-# Pesquisa_Inovacao
-Repositório da entrega de atividade realizada em sala.
+# meu-primeiro-repo
+Meu repositório da Faculdade
+
+Estou alterando no remoto!
+
+Estou alterando no local!
